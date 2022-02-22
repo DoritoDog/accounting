@@ -1,0 +1,235 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-10-04 14:02+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AccountingActivitiesController.php:53
+#: Controller/AccountingActivitiesController.php:77
+msgid "The accounting activity has been saved."
+msgstr "Účtovný prípad bol uložený."
+
+#: Controller/AccountingActivitiesController.php:57
+#: Controller/AccountingActivitiesController.php:81
+msgid "The accounting activity could not be saved. Please, try again."
+msgstr "Nepodarilo sa uložiť účtovný prípad. Prosím, skúste znova."
+
+#: Controller/AccountingActivitiesController.php:98
+msgid "The accounting activity has been deleted."
+msgstr "Účtovný prípad bol vymazaný."
+
+#: Controller/AccountingActivitiesController.php:100
+msgid "The accounting activity could not be deleted. Please, try again."
+msgstr "Nepodarilo sa vymazať účtovný prípad. Prosím, skúste znova."
+
+#: Controller/AccountingItemsController.php:53
+#: Controller/AccountingItemsController.php:77
+msgid "The accounting item has been saved."
+msgstr "Účtovný záznam bol uložený."
+
+#: Controller/AccountingItemsController.php:57
+#: Controller/AccountingItemsController.php:81
+msgid "The accounting item could not be saved. Please, try again."
+msgstr "Nepodarilo sa uložiť účtovný záznam. Prosím, skúste znova."
+
+#: Controller/AccountingItemsController.php:98
+msgid "The accounting item has been deleted."
+msgstr "Účtovný záznam bol vymazaný"
+
+#: Controller/AccountingItemsController.php:100
+msgid "The accounting item could not be deleted. Please, try again."
+msgstr "Nepodarilo sa vymazať účtovný záznam. Prosím, skúste znova."
+
+#: AccountingActivities/add.php:10
+#: AccountingActivities/edit.php:10
+#: AccountingActivities/index.php:19
+#: AccountingActivities/view.php:10
+#: AccountingItems/add.php:10
+#: AccountingItems/edit.php:10
+#: AccountingItems/index.php:21
+#: AccountingItems/view.php:10
+msgid "Actions"
+msgstr "Činnosti"
+
+#: AccountingActivities/add.php:11
+#: AccountingActivities/edit.php:16
+#: AccountingActivities/view.php:13
+msgid "List Accounting Activities"
+msgstr "Zobraziť účtovné prípady"
+
+#: AccountingActivities/add.php:18
+msgid "Add Accounting Activity"
+msgstr "Pridať účtovný prípad"
+
+#: AccountingActivities/add.php:24
+#: AccountingActivities/edit.php:29
+#: AccountingItems/add.php:26
+#: AccountingItems/edit.php:31
+msgid "Submit"
+msgstr "Poslať"
+
+msgid "Save"
+msgstr "Uložiť"
+
+#: AccountingActivities/edit.php:12
+#: AccountingActivities/index.php:33
+#: AccountingItems/edit.php:12
+#: AccountingItems/index.php:37
+msgid "Delete"
+msgstr "Vymazať"
+
+#: AccountingActivities/edit.php:14
+#: AccountingActivities/index.php:33
+#: AccountingActivities/view.php:12
+#: AccountingItems/edit.php:14
+#: AccountingItems/index.php:37
+#: AccountingItems/view.php:12
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Ste si istý že chcete vymazať # {0}?"
+
+#: AccountingActivities/edit.php:23
+#: AccountingActivities/view.php:11
+msgid "Edit Accounting Activity"
+msgstr "Úpraviť účtovný prípad"
+
+#: AccountingActivities/index.php:8
+#: AccountingActivities/view.php:14
+msgid "New Accounting Activity"
+msgstr "Nový účtovný prípad"
+
+#: AccountingActivities/index.php:9
+msgid "Accounting Activities"
+msgstr "Účtovné prípady"
+
+#: AccountingActivities/index.php:31
+#: AccountingItems/index.php:35
+msgid "View"
+msgstr "Pozrieť"
+
+#: AccountingActivities/index.php:32
+#: AccountingItems/index.php:36
+msgid "Edit"
+msgstr "Úpraviť"
+
+#: AccountingActivities/index.php:42
+#: AccountingItems/index.php:46
+msgid "first"
+msgstr "prvý"
+
+#: AccountingActivities/index.php:43
+#: AccountingItems/index.php:47
+msgid "previous"
+msgstr "predošlý"
+
+#: AccountingActivities/index.php:45
+#: AccountingItems/index.php:49
+msgid "next"
+msgstr "ďalší"
+
+#: AccountingActivities/index.php:46
+#: AccountingItems/index.php:50
+msgid "last"
+msgstr "posledný"
+
+#: AccountingActivities/index.php:48
+#: AccountingItems/index.php:52
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Strana {{page}} z {{pages}}, zobrazujúci {{current}} údaj(ov) zo {{count}}"
+
+#: AccountingActivities/view.php:12
+msgid "Delete Accounting Activity"
+msgstr "Vymazať účtovný prípad"
+
+#: AccountingActivities/view.php:22
+msgid "Name"
+msgstr "Meno"
+
+#: AccountingActivities/view.php:26
+#: AccountingItems/view.php:26
+msgid "Id"
+msgstr "Id"
+
+#: AccountingActivities/view.php:30
+msgid "Price"
+msgstr "Cena"
+
+#: AccountingActivities/view.php:34
+#: AccountingItems/view.php:42
+msgid "Created"
+msgstr "Vytvorený"
+
+#: AccountingActivities/view.php:38
+#: AccountingItems/view.php:46
+msgid "Modified"
+msgstr "Úpravený"
+
+#: AccountingItems/add.php:11
+#: AccountingItems/edit.php:16
+#: AccountingItems/view.php:13
+msgid "List Accounting Items"
+msgstr "Zobraziť účtovné položky"
+
+#: AccountingItems/add.php:18
+msgid "Add Accounting Item"
+msgstr "Prídať účtovnú položku"
+
+#: AccountingItems/edit.php:23
+#: AccountingItems/view.php:11
+msgid "Edit Accounting Item"
+msgstr "Úpraviť účtovnú položku"
+
+#: AccountingItems/index.php:8
+#: AccountingItems/view.php:14
+msgid "New Accounting Item"
+msgstr "Nová účtovná položka"
+
+#: AccountingItems/index.php:9
+msgid "Accounting Items"
+msgstr "Účtovné prípady"
+
+#: AccountingItems/view.php:12
+msgid "Delete Accounting Item"
+msgstr "Vymazať účtovnú položku"
+
+#: AccountingItems/view.php:22
+msgid "Type"
+msgstr "Typ"
+
+#: AccountingItems/view.php:30
+msgid "Entries Per Month"
+msgstr "Počet záznamov za mesiac"
+
+#: AccountingItems/view.php:34
+msgid "Taxpayer Price"
+msgstr "Cena za záznam platca DPH"
+
+#: AccountingItems/view.php:38
+msgid "Non Taxpayer Price"
+msgstr "Cena za záznam neplatca DPH"
+
+#: layout/error.php:38
+msgid "Back"
+msgstr "Naspäť"
+
+msgid "double entry"
+msgstr "podvojné"
+
+msgid "simple"
+msgstr "jednoduché"
+
+msgid "activity"
+msgstr "úkon"
+
+msgid "wages and personnel"
+msgstr "mzdy a personalistika"
+
